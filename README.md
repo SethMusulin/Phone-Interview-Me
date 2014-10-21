@@ -1,4 +1,4 @@
-Phone Interviewe Me
+Phone Interview Me
 ========================
 
 An application built for job seekers to practice answering interview questions over the phone.  The app utilizes the Twilio API to record answers and allows users to publish recordings for comment by other users. 
